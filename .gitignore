@@ -1,0 +1,21 @@
+# PSoC Creator: generated and per-user files
+Generated_Source/
+codegentemp/
+CortexM3/
+Export/
+*.cyprj.*
+*.cywrk.*
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*_timing.html
+BUILD.log
+
+# MATLAB
+*.asv
+*.fig
+
+# OS
+desktop.ini
+Thumbs.db
